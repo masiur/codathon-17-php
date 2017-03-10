@@ -1,4 +1,10 @@
-# codathon-17-php
+# Codathon-2017-s3e1
+## 10 March, 2017
+Day long Program organized by
+
+[SUST CSE Developer Network](http://scdnlab.com/)
+
+[Questions](http://scdnlab.com/codathon/)
 
 (https://github.com/moniruzzaman-monir)
 
